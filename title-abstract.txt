@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Spam Detection Using Natural Language Processing
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+Building a spam detection algorithm by utilizing Natural Language Processing to extract features associated with spam emails. Deep Learning methods as well as word-to-vector transformation are used to create a spam email classifier.
